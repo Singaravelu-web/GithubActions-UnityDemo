@@ -1,4 +1,4 @@
-name: Build UnityProject 
+name: Build UnityProject
 
 on: [push, pull_request]
 
